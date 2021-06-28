@@ -1,5 +1,5 @@
-letters = ('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 import random
+letters = ('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 lr1 = random.choice(letters)
 lr2 = random.choice(letters) 
 lr3 = random.choice(letters) 
